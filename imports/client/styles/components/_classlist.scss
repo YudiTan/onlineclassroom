@@ -1,0 +1,17 @@
+.classlist {
+  background: $item-bg;
+  border: 1px solid $item-border;
+  margin-bottom: $space;
+  padding: $space;
+}
+
+.classlist__message {
+  color: #fd5c63;
+}
+
+.classlist__status-message {
+  color: $item-text-color;
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+}
